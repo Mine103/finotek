@@ -1,11 +1,11 @@
-package chap03;
+package spring;
 
 import java.time.LocalDateTime;
 
 public class MemberRegisterService {
 	private MemberDao memberDao;
 	
-	public MemberRegisterService(MemberDao memderDao) {
+	public MemberRegisterService(MemberDao memberDao) {
 		this.memberDao = memberDao;
 	}
 	

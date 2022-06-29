@@ -1,4 +1,4 @@
-package chap02;
+package spring;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 //자바 설정에서 정보를 읽어와 빈 객체를 생성하고 관리한다.

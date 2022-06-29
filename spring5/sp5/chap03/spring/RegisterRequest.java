@@ -1,7 +1,7 @@
 /*
  * 회원 가입을 처리할 때 필요한 이메일, 암호, 이름데이터를
  * 담고 있는 간단은 클래스*/
-package chap03;
+package spring;
 
 public class RegisterRequest {
 	

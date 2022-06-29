@@ -1,4 +1,4 @@
-package chap02;
+package spring;
 
 public class Greeter {
 	private String format;
